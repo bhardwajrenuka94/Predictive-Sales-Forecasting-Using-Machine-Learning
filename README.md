@@ -84,5 +84,5 @@ The dataset contains hourly demand data with the following features:
 ---
 
 ## 👤 Author
-**Your Name**  
+Renuka Bhardwaj
 Aspiring Data Scientist
